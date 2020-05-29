@@ -1,0 +1,5 @@
+#videoBox { text-align: center;}
+#localVideo {
+    border: 2px solid black;
+    height: 50%;
+}
